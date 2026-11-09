@@ -63,25 +63,7 @@ I'm interested in connecting with professionals working in infrastructure engine
 
 - **Email:** akash@routenull.dev
 - **GitHub:** [@akashpatekar2312](https://github.com/akashpatekar2312)
-- **Website:** [RouteNull](https://routenull.dev)
 
 ---
 
 *Building, automating, investigating, and continuously learning.*
-
-
-
-
-
-<!---
-- 👋 Hi, I’m @ Akash Patekar
-- 👀 I’m interested in Linux,PostgreSQL administration and Cybersecurity 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-akashpatekar2312/akashpatekar2312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
