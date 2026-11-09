@@ -26,7 +26,7 @@ My experience spans infrastructure management, security monitoring, incident inv
 | Databases | PostgreSQL, MySQL |
 | Infrastructure | Docker, Zabbix, Networking |
 | Cloud & IaC | AWS, Terraform |
-| Security | Threat Intelligence, FIM, Authentication Monitoring, Vulnerability Assessment |
+| Security | Threat Intelligence, FIM, Authentication Monitoring |
 
 ### Selected Projects
 
